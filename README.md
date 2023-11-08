@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/raspberry-lanza-editor-codigo-aprender-python-lenguaje-ia-3008158.jpg?tf=3840x">
 
-Bienvenido a la "Guía de Ejercicios de Python", tu recurso para mejorar tus habilidades en programación Python. Este repositorio alberga una variedad de ejercicios de Python resueltos y desarrollados utilizando el entorno de desarrollo PyCharm.
+Bienvenido a la "Guía de Ejercicios de Python", tu recurso para mejorar tus habilidades en programación Python. Este repositorio alberga una variedad de ejercicios de Python resueltos y desarrollados utilizando el entorno de desarrollo Jupyter Notebook.
 
 ## ¿Qué puedes esperar de este repositorio?
 
